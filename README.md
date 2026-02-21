@@ -18,6 +18,8 @@ Experiment 2/
 Each folder represents a separate lab experiment and contains the corresponding `.java` source files.
 
 ## 👤 Author
-Yug Agrawal  
+Yug Agrawal
+AIML C-3
+24070126209
 B.Tech – Artificial Intelligence & Machine Learning  
 Symbiosis Institute of Technology
